@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+*.d
+build/
+bin/
+test_runner
+
+# Python bytecode
+__pycache__/
+*.pyc
